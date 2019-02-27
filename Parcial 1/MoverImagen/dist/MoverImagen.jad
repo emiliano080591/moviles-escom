@@ -1,0 +1,8 @@
+MIDlet-1: MoverImagen, , moverimagen.MoverImagen
+MIDlet-Jar-Size: 252566
+MIDlet-Jar-URL: MoverImagen.jar
+MIDlet-Name: MoverImagen
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1

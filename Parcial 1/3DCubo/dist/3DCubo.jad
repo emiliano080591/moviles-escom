@@ -1,0 +1,9 @@
+MIDlet-1: Cubo, , figuras.Cubo
+MIDlet-2: Piramide, , figuras.Piramide
+MIDlet-Jar-Size: 9948
+MIDlet-Jar-URL: 3DCubo.jar
+MIDlet-Name: 3DCubo
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0

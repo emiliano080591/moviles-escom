@@ -1,0 +1,10 @@
+MIDlet-1: examen, , examen.examen
+MIDlet-2: Cuadro, , examen.Cuadro
+MIDlet-3: Inicio, , examen.Inicio
+MIDlet-Jar-Size: 5227
+MIDlet-Jar-URL: Examen.jar
+MIDlet-Name: Examen
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
